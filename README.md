@@ -67,9 +67,9 @@ Government policy has great impact to real estate industry. The ability of linki
 ### References
 - [youtube](https://youtu.be/BbplhqDCWOM?si=ZaWv4kUt8PmFPjBt)
 
-![image](https://github.com/87Iodo/Power-BI-Report-for-Singapore-Real-Estate/assets/143507039/c6cdffac-0c16-4153-b0fb-2038e06d8915)
+![image](https://github.com/87Iodo/Power-BI-Report-for-Singapore-Real-Estate/assets/143507039/97d5335b-0509-4882-968f-e429656320d2)
 
-![image](https://github.com/87Iodo/Power-BI-Report-for-Singapore-Real-Estate/assets/143507039/d867ceaf-3bee-4256-9740-a66c56325d56)
+![image](https://github.com/87Iodo/Power-BI-Report-for-Singapore-Real-Estate/assets/143507039/9ac7cea3-54a0-4b32-8a9c-8bee3667155e)
 
 ![image](https://github.com/87Iodo/Power-BI-Report-for-Singapore-Real-Estate/assets/143507039/b999fdc7-7cef-445a-a409-ea49888d90c1)
 
